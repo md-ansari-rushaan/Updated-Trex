@@ -1,2 +1,2 @@
-# Updated-Trex
-This is old game that very trex this is only updated version.
+# Chrome-Trex
+This is a game
